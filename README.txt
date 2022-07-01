@@ -1,4 +1,5 @@
-This is a personal website, soon to be turned into a portfolio website, detailing projects and other engineering things that I have worked on
+This is a personal website, soon to be turned into a portfolio website,
+detailing projects and other engineering things that I have worked on.
 
 
 Credits:
